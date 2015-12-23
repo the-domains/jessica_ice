@@ -1,0 +1,28 @@
+name: Jessica_Ice
+favicon: null
+layout_spectrum: 0.04584066825918853
+typography_spectrum: 0.6502677609678358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.09124902985058725
+  lightness: 0.547944586025551
+  saturation: 0.5899885226972401
+  rhythmicContrast: 0.8770355351734906
+purpose: []
