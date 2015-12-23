@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jessica_Ice]]></title>
         <description><![CDATA[Jessica_Ice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jessica_ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 03:39:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 03:43:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jessica_ice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><p>Hi my name is Jessica Ice. I am a Senior Research Analyst at the Federal Reserve Bank of Cleveland. I am interested in understanding growth drivers in the regional economy and labor economics. I also love diving, traveling, and all things CLE. Welcome to my webpage.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39d9cec8-da25-4ce3-8413-1ccf88b40047.jpg"></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <title><![CDATA[Welcome. ]]></title>
+            <description><![CDATA[<article><h1>Welcome. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86324e33914552b879e57090c9d7be8265caebee.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jessica_ice/about-me/index.html</link>
             <guid isPermaLink="false">746b71d1-7c4d-4ac6-86b3-d2e9ba84b514</guid>
-            <pubDate>Wed, 23 Dec 2015 03:39:36 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 03:43:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
