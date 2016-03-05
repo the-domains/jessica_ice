@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-23T04:02:43.726Z'
-dateModified: '2015-12-23T04:02:21.319Z'
+description: Hobbies and other fun stuff
+datePublished: '2016-03-05T17:43:36.191Z'
+dateModified: '2016-03-05T17:42:47.722Z'
 title: Jacobs University Foundation of America
 author: []
+sourcePath: _posts/2015-12-23-jacobs-university-foundation-of-america.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-jacobs-university-foundation-of-america.md
-published: true
 url: jacobs-university-foundation-of-america/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Jacobs University Foundation of America
