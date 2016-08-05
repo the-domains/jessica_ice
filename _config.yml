@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Jessica_Ice
+name: Jessica Ice
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Jacobs University Foundation of America
     id: 66b841ac-53d9-497a-960b-cf9f8db9e44c
+    type: content
+  - name: Home
+    id: 746b71d1-7c4d-4ac6-86b3-d2e9ba84b514
     type: content
 favicon: null
 title: Jessica Ice
